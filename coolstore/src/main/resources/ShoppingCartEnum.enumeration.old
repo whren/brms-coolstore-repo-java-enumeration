@@ -1,0 +1,1 @@
+=(new com.redhat.coolstore.TestEnumeration()).loadData()
